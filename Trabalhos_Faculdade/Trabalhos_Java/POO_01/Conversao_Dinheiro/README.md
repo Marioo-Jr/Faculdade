@@ -17,4 +17,5 @@ Desenvolva o diagrama de classe da UML do projeto desenvolvido.
 A equipe deve apresentar ao professor o sistema funcionando.
 
 
-![Main](https://github.com/user-attachments/assets/be1be97b-72b6-41ea-acc7-cd02f1693ecc)
+
+![TipoMoeda_Uml](https://github.com/user-attachments/assets/bd51c52c-7312-472e-bbfa-bc409b4c6e0c)
