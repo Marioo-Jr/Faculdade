@@ -9,6 +9,7 @@ Calcular o desvio padrão: A partir de um conjunto de dados numéricos.
 Calcular juros compostos: Considerando capital inicial, taxa de juros e tempo de aplicação.
 DIAGRAMAS:
 
-![Screenshot 2024-09-06 at 20 58 39](https://github.com/user-attachments/assets/65ce95f7-bbad-417f-9660-0d84fe54a0ea)
 
 
+
+![matematica_Uml](https://github.com/user-attachments/assets/f0372847-1bd1-4a59-a243-4b4878f240f3)
